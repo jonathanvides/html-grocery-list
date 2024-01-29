@@ -1,0 +1,61 @@
+/* External CSS used to add a color to the tables along with a font and format the size and margins of the tables */
+table {
+    background-color: #40e0d0;
+    margin-left: 40px;
+    width: 200px;
+    height: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* External CSS used to display tables on the same row */
+.element {
+    display: inline-block;
+}
+
+/* External CSS used to format the padding of the top left table */
+.top-left {
+    padding-right: 90px;
+    padding-top: 10px;
+}
+
+/* External CSS used to format the padding of the top right table */
+.top-right {
+    padding-right: 70px;
+    padding-top: 10px;
+}
+
+/* External CSS used to format the padding of the bottom left table */
+.bottom-left {
+    padding-right: 93px;
+    padding-top: 10px;
+}
+
+/* External CSS used to format the padding of the bottom right table */
+.bottom-right {
+    padding-right: 105px;
+    padding-top: 10px;
+}
+
+/* External CSS used to add a border to the section headers and format the padding and margins of the section headers */
+h2 {
+    border: solid 1px;
+    padding: 8px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* External CSS used to format the padding of the table headers */
+th {
+    padding-left: 25px;
+}
+
+/* External CSS used to format the margins of the main header */
+h1 {
+    margin-bottom: 40px;
+}
+
+/* External CSS used to add a border to the image */
+img {
+    border: solid 1px;
+}
